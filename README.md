@@ -6,7 +6,7 @@
 - Visit [My Portfolio](https://sourabh945.pythonanywhere.com)
 - Vist [Linkedin](https://linkedin.com/in/sourabh-sheokand)
 
-- [![My Skills](https://skillicons.dev/icons?i=js,python,javascript,typescript,golang,c,cpp,fortran,postgresql,sqlite,flask,django,nginx,gunicorn,linux,express)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=js,python,javascript,typescript,golang,c,cpp,fortran,postgresql,sqlite,flask,django,nginx,docker,linux,express)](https://skillicons.dev)
 
 <!---
 sourabh945/sourabh945 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
