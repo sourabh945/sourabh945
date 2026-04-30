@@ -1,14 +1,40 @@
-- 👋 Hi, I’m @sourabh945
-- 👀 I’m interested in Physics, Mathematics and Computer Science 
-- 🌱 I’m constantly learning Physics and programming
-- 💞️ I’m looking to collaborate on project related to computational physics and any other projects that help peoples
-- 📫 How to reach me : email me at sheokand.sourabh.anil@gmail.com
-- Visit [My Portfolio](https://sourabh945.pythonanywhere.com)
-- Vist [Linkedin](https://linkedin.com/in/sourabh-sheokand)
+# Hi, I'm Sourabh Sheokand 👋
 
-- [![My Skills](https://skillicons.dev/icons?i=js,python,javascript,typescript,golang,c,cpp,fortran,postgresql,sqlite,flask,django,nginx,docker,linux,express)](https://skillicons.dev)
+Physics, math, and code. I build simulations, backends, and the occasional frontend when I have to. Got a thing for infra tools too — there's something satisfying about building the stuff that makes everything else work.
 
-<!---
-sourabh945/sourabh945 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently deep into computational physics — numerical methods, physical modeling, making equations actually run. Also building full-stack apps on the side, mostly things I wish existed.
+
+---
+
+### Skills
+
+**Languages**  
+[![Languages](https://skillicons.dev/icons?i=python,javascript,typescript,golang,c,cpp,fortran)](https://skillicons.dev)
+
+**Web & API**  
+[![Web](https://skillicons.dev/icons?i=flask,django,express,react,nextjs,graphql,apollo,postman,html,css)](https://skillicons.dev)
+
+**Infra & Databases**  
+[![Infra](https://skillicons.dev/icons?i=docker,nginx,githubactions,git,linux,ubuntu,bash,postgresql,redis,sqlite,mongodb)](https://skillicons.dev)
+
+---
+
+### Open Source
+
+Repos I've contributed to or actively follow —
+
+| Project | What I did |
+|--------|------------|
+| [dnd-kit](https://github.com/clauderic/dnd-kit) | Added guardrails to prevent crashes on edge-case usage |
+
+<!-- Add more rows as you contribute: [repo](url) | what you did -->
+
+---
+
+### Contact
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sourabh-sheokand)
+&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sheokand.sourabh.anil@gmail.com)
+&nbsp;
+[![Portfolio](https://skillicons.dev/icons?i=vercel)](https://sourabh945.pythonanywhere.com)
