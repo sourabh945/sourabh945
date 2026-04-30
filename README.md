@@ -1,8 +1,8 @@
-# Hi, I'm Sourabh Sheokand 👋
+# Hi, I'm Sourabh 👋
 
-Physics, math, and code. I build simulations, backends, and the occasional frontend when I have to. Got a thing for infra tools too — there's something satisfying about building the stuff that makes everything else work.
+Got a thing for infra tools — there's something satisfying about building the stuff that makes everything else work. Also deep into computational physics, numerical methods, and making equations actually run.
 
-Currently deep into computational physics — numerical methods, physical modeling, making equations actually run. Also building full-stack apps on the side, mostly things I wish existed.
+📬 Reach Me: [sheokand.sourabh.anil@gmail.com](mailto:sheokand.sourabh.anil@gmail.com)
 
 ---
 
@@ -21,20 +21,8 @@ Currently deep into computational physics — numerical methods, physical modeli
 
 ### Open Source
 
-Repos I've contributed to or actively follow —
-
 | Project | What I did |
 |--------|------------|
 | [dnd-kit](https://github.com/clauderic/dnd-kit) | Added guardrails to prevent crashes on edge-case usage |
 
 <!-- Add more rows as you contribute: [repo](url) | what you did -->
-
----
-
-### Contact
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sourabh-sheokand)
-&nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sheokand.sourabh.anil@gmail.com)
-&nbsp;
-[![Portfolio](https://skillicons.dev/icons?i=vercel)](https://sourabh945.pythonanywhere.com)
