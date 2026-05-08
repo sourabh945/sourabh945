@@ -62,11 +62,12 @@
                 "Python": 9,
                 "C++": 8,
                 "C": 7,
+                "go": 7, 
                 "TypeScript": 7,
                 "JavaScript": 7,
                 "Fortran": 6,
-                "Bash": 6,
-                "Rust": 3
+                "Bash": 1,
+                "Rust": 1
             }
         },
         {
@@ -485,19 +486,10 @@
             "type": "website"
         },
         {
-            "name": "Portfolio",
-            "source": "https://sourabh945.pythonanywhere.com",
-            "type": "website"
-        },
-        {
             "name": "Call",
             "source": "+91-9306490337",
             "type": "call"
-        },
-        {
-            "name": "WhatsApp",
-            "source": "https://wa.me/+919306490337",
-            "type": "message"
         }
+        
     ]
 }
