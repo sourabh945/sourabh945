@@ -8,6 +8,12 @@
         "Projects": "projects",
         "Contact": "contact"
     },
+    "config": {
+        "system_name": "dev.sys",
+        "terminal_user": "guest",
+        "terminal_host": "sys.core",
+        "ascii_art": "██╗  ██╗███████╗██╗     ██╗      ██████╗     ██████╗ ███████╗██╗   ██╗\n██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██╔══██╗██╔════╝██║   ██║\n███████║█████╗  ██║     ██║     ██║   ██║    ██║  ██║█████╗  ██║   ██║\n██╔══██║██╔══╝  ██║     ██║     ██║   ██║    ██║  ██║██╔══╝  ╚██╗ ██╔╝\n██║  ██║███████╗███████╗███████╗╚██████╔╝    ██████╔╝███████╗ ╚████╔╝\n╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝     ╚═════╝ ╚══════╝  ╚═══╝ "
+    }, 
     "name": "Sourabh Sheokand",
     "about": "Physics taught me how to think. Programming taught me how to build.\n\nI am a backend and systems developer with a postgraduate degree in Physics and a deep passion for building things that actually work. I started writing code to solve physics problems and run simulations. Then I realised I enjoyed building the tools more than using them.\n\nI build production backend systems, automation tools, and systems software. My physics background gives me strong mathematical intuition, a comfort with complex systems, and a genuine love for understanding how things work at a fundamental level.\n\nI use Ubuntu as my daily driver and work almost entirely in the terminal. I go deep on problems. Put me on your team and I become the person everyone comes to when something needs to actually work.\n\nIIT JAM 2022 qualified. Currently building internal tools at HexaHealth. Actively looking for backend and systems engineering roles.",
     "experience": [
