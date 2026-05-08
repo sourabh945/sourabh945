@@ -7,7 +7,7 @@
         "Achievements": "achievements",
         "Projects": "projects",
     },
-    "config": {
+    "nav-bar": {
         "linkedin": "https://linkedin.com/in/sourabh-sheokand", 
         "github": "https://github.com/sourabh945", 
         "resuem": "blob:https://github.com/4b6281f6-aa6b-41ea-90cc-ca88a7966668"
