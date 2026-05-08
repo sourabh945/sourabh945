@@ -12,7 +12,7 @@ Got a thing for infra tools — there's something satisfying about building the 
 [![Languages](https://skillicons.dev/icons?i=python,javascript,typescript,golang,c,cpp,fortran)](https://skillicons.dev)
 
 **Web & API**  
-[![Web](https://skillicons.dev/icons?i=flask,django,express,react,nextjs,graphql,postman,html,css)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=flask,django,express,react,nextjs,graphql,postman,html,css,alpinejs)](https://skillicons.dev)
 
 **Infra & Databases**  
 [![Infra](https://skillicons.dev/icons?i=docker,nginx,githubactions,git,linux,ubuntu,bash,postgresql,redis,sqlite,mongodb)](https://skillicons.dev)
