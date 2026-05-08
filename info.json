@@ -1,0 +1,552 @@
+{
+    "sections": {
+        "whoami": "about",
+        "Experience": "experience",
+        "Education": "education",
+        "Skills": "skills",
+        "Achievements": "achievements",
+        "Projects": "projects"
+    },
+    "nav-bar": {
+        "linkedin": "https://linkedin.com/in/sourabh-sheokand",
+        "github": "https://github.com/sourabh945",
+        "resume": "https://sourabh945.pythonanywhere.com/static/media/resume.pdf"
+    },
+    "name": "Sourabh Sheokand",
+    "title": "Backend & System Developer",
+    "about": "Physics taught me how to think. Programming taught me how to build.\n\nI am an Executive with a postgraduate degree in Physics and a deep passion for building things that actually work. While I am not a software developer by trade, I solve real business problems with code. I recently modified our office CMS to fix critical crashing issues, and my code was subsequently adopted by the technical team.\n\nMy physics background gives me strong mathematical intuition, a comfort with complex systems, and a genuine love for understanding how things work at a fundamental level.\n\nI use Ubuntu as my daily driver and work almost entirely in the terminal. I go deep on problems. Put me on your team and I become the person everyone comes to when something needs to actually work.\n\nIIT JAM 2022 qualified.",
+    "experience": [
+        {
+            "company": "HexaHealth",
+            "website": "https://www.hexahealth.com",
+            "title": "Executive",
+            "years": "Jan 2025 – Present",
+            "points": [
+                "Fixed a critical bug in the React-based CMS where drag-and-drop operations with null objects caused system crashes.",
+                "Implemented a guardrail in the dnd-kit library to handle null objects, a fix that was formally adopted by the tech team.",
+                "Developed JavaScript and Python automation scripts to streamline data entry workflows and aggregate healthcare provider data."
+            ]
+        },
+        {
+            "company": "Education Zone, Narwana",
+            "website": "",
+            "title": "Physics Tutor",
+            "years": "Sept 2019 – Mar 2020",
+            "points": [
+                "Taught physics to secondary school students using practical and computational examples",
+                "Improved one student's performance from 68% in midterm to 90% in final examinations"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "website": "https://www.gjust.ac.in",
+            "university": "Guru Jambheshwar University of Science & Technology, Hisar",
+            "course": "M.Sc. Physics — Specialization: Material Science",
+            "session": "2022 – 2024",
+            "marks": "69%"
+        },
+        {
+            "website": "https://www.crsu.ac.in",
+            "university": "Chaudhary Ranbir Singh University, Jind",
+            "course": "B.Sc. Physics, Chemistry, Mathematics",
+            "session": "2019 – 2022",
+            "marks": "74%"
+        }
+    ],
+    "skills": [
+        {
+            "title": "Programming Languages",
+            "content": {
+                "Python": 9,
+                "C++": 8,
+                "C": 7,
+                "Go": 7,
+                "TypeScript": 7,
+                "JavaScript": 7,
+                "Fortran": 6,
+                "Bash": 4,
+                "Rust": 2
+            }
+        },
+        {
+            "title": "Backend & Web Frameworks",
+            "content": {
+                "Django": 8,
+                "Django REST Framework": 8,
+                "Express.js": 7,
+                "Node.js": 7,
+                "Flask": 7,
+                "REST APIs": 9,
+                "JWT Authentication": 8,
+                "WebSockets": 6
+            }
+        },
+        {
+            "title": "Systems & Concurrency",
+            "content": {
+                "Unix IPC / Domain Sockets": 8,
+                "Shared Memory IPC": 7,
+                "POSIX Semaphores": 7,
+                "Signal Handling": 7,
+                "Multiprocessing": 7,
+                "Multithreading": 7,
+                "Linux": 8,
+                "Race Condition Prevention": 7,
+                "Process Orchestration": 7
+            }
+        },
+        {
+            "title": "Databases",
+            "content": {
+                "PostgreSQL": 7,
+                "MongoDB": 7,
+                "SQLite": 6,
+                "Redis": 5
+            }
+        },
+        {
+            "title": "DevOps & Tools",
+            "content": {
+                "Docker": 7,
+                "GitHub Actions CI/CD": 8,
+                "Git": 8,
+                "Gunicorn": 7,
+                "Nginx": 5,
+                "Render": 6
+            }
+        },
+        {
+            "title": "Frontend & UI Libraries",
+            "content": {
+                "React": 6,
+                "dnd-kit": 6,
+                "Alpine.js": 5,
+                "Jinja2": 7,
+                "Tailwind CSS": 6
+            }
+        },
+        {
+            "title": "Testing",
+            "content": {
+                "pytest": 7,
+                "Vitest": 7,
+                "Supertest": 6,
+                "mongodb-memory-server": 6
+            }
+        },
+        {
+            "title": "Scientific Computing",
+            "content": {
+                "NumPy": 7,
+                "SciPy": 7,
+                "Matplotlib": 8,
+                "Pandas": 6,
+                "Computational Physics": 9,
+                "Mathematical Modelling": 8
+            }
+        },
+        {
+            "title": "Hardware & Embedded",
+            "content": {
+                "Arduino": 6,
+                "Raspberry Pi": 6,
+                "Ultrasonic Sensors": 6,
+                "Electronics": 5
+            }
+        },
+        {
+            "title": "Operating Systems",
+            "content": {
+                "Ubuntu": 8,
+                "Linux": 8,
+                "Windows": 5
+            }
+        }
+    ],
+    "achievements": [
+        {
+            "content": "IIT JAM (2022) Qualified — one of India's most competitive national postgraduate entrance examinations in Physics, testing advanced physics, mathematics and analytical reasoning at undergraduate level",
+            "highlights": [
+                "IIT-JAM",
+                "2022",
+                "Qualified",
+                "national"
+            ]
+        },
+        {
+            "content": "Winner — Inter-University Advanced Mathematics Quiz on National Mathematics Day",
+            "highlights": [
+                "Winner",
+                "Mathematics",
+                "Quiz",
+                "National"
+            ]
+        },
+        {
+            "content": "Best Explainer Award — State Level Science Exhibition by Department of Higher Education, Haryana",
+            "highlights": [
+                "Best Explainer",
+                "State Level",
+                "Science Exhibition"
+            ]
+        },
+        {
+            "content": "3-year member of college Science Quiz team representing institution at State Level, Department of Higher Education, Haryana",
+            "highlights": [
+                "State Level",
+                "Science Quiz",
+                "3 years"
+            ]
+        },
+        {
+            "content": "Second Position in Physics Quiz at University level",
+            "highlights": [
+                "Second Position",
+                "Physics Quiz",
+                "University"
+            ]
+        }
+    ],
+    "comment": "Projects ordered by technical impressiveness for backend and systems engineering roles.",
+    "projects": [
+        
+        {
+            "name": "ForgeQueue",
+            "desc": "A distributed image processing job queue built from scratch — Go orchestrator managing Python worker processes over Unix domain sockets, with Redis-backed job management, process lifecycle control (freeze/unfreeze/kill), watchdog timeouts, and webhook delivery.",
+            "link": "https://github.com/sourabh945/ForgeQueue",
+            "skills": [
+                "Go",
+                "Python",
+                "Unix IPC",
+                "Redis",
+                "Node.js",
+                "Express",
+                "Docker",
+                "Distributed Systems",
+                "Process Orchestration"
+            ],
+            "longdesc": "ForgeQueue is a ground-up distributed job queue for image processing workloads. The system is split into three layers: a Go orchestrator that manages worker process lifecycles, a Python worker fleet that executes the actual image processing jobs, and a Node.js/Express API that accepts incoming job submissions and delivers webhook callbacks on completion. Workers communicate with the orchestrator exclusively over Unix domain sockets using a typed JSON IPC protocol. The Go layer can freeze, unfreeze, or kill workers at any point, and a per-job watchdog timer enforces maximum execution time guarantees.",
+            "technical": "The Go orchestrator uses exec.Cmd with SysProcAttr.Setpgid to launch each Python worker as a separate process in its own process group, enabling clean hierarchical signal delivery. Each worker is assigned a unique Unix domain socket path (/tmp/forgequeue-worker-N.sock) at spawn time; the orchestrator connects immediately after process start and holds the connection open for the worker's lifetime. The typed IPC protocol defines Job, JobResponse, and UnFrezzingResponse structs serialised as JSON over the socket — no length-prefixed framing needed because json.Decoder handles stream boundaries. Worker lifecycle operations map directly to POSIX signals: SIGSTOP to freeze a worker mid-job (preserving all in-flight state), SIGCONT to resume it, and SIGKILL for hard termination. The WatchDog function runs in a goroutine per job, racing a time.NewTimer against a done channel — if the timer fires first, it calls KillProcess with exit code -3 to distinguish timeout kills from other forced terminations. Stdout and stderr from each worker process are captured via pipes and forwarded to the orchestrator's structured slog logger with stream and worker-id tags, so all worker output is observable through a single unified log stream. The Python worker layer creates a Unix domain socket server, accepts one connection per job, deserialises the JSON job payload, executes the processing function, serialises the response, and sends it back — all within a context-managed connection block to guarantee cleanup even on exceptions. SIGTERM and SIGINT handlers in the Python layer close the server socket and remove the socket file before exiting, preventing stale socket files from blocking future worker spawns.",
+            "content": {
+                "name": "Name",
+                "desc": "Brief Description",
+                "link": "Link to Repo",
+                "skills": "Skills Used",
+                "longdesc": "Long Description",
+                "technical": "Technical Description"
+            }
+        },
+      {
+            "name": "dnd-kit Guardrail Contribution",
+            "desc": "Added a guardrail to the dnd-kit library to prevent application crashes when dragging and dropping null objects.",
+            "link": "https://github.com/clauderic/dnd-kit",
+            "skills": [
+                "JavaScript",
+                "React",
+                "Open Source"
+            ],
+            "longdesc": "While working as an Executive, our office CMS was crashing during drag-and-drop operations involving null objects. I investigated the underlying dnd-kit library, developed a guardrail to safely handle these null objects, and applied the fix to our system to prevent further crashes. The technical team subsequently adopted my code.",
+            "technical": "Implemented null-checking guardrails within the core drag-and-drop event handlers to ensure that dropping empty or undefined elements does not trigger fatal exceptions in the React component tree.",
+            "content": {
+                "name": "Name",
+                "desc": "Brief Description",
+                "link": "Link to Repo",
+                "skills": "Skills Used",
+                "longdesc": "Long Description",
+                "technical": "Technical Description"
+            }
+        },
+        {
+            "name": "Todo App Backend",
+            "desc": "Production-grade REST API built with TypeScript, Express, and MongoDB. Features JWT authentication, Zod request validation, structured Pino logging, a complete Vitest integration test suite, and Docker containerization with graceful shutdown.",
+            "link": "https://github.com/sourabh945/todo-list",
+            "skills": [
+                "TypeScript",
+                "Node.js",
+                "Express",
+                "MongoDB",
+                "Docker",
+                "JWT",
+                "Zod",
+                "Vitest",
+                "Pino"
+            ],
+            "longdesc": "A fully production-ready backend API built while learning TypeScript and Node.js from scratch. Every decision was made with production in mind — not just making it work, but making it maintainable, testable, and observable. The project demonstrates complete JWT authentication, strict input validation using Zod schemas, structured JSON logging with Pino including automatic sensitive field redaction, and a full integration test suite that runs without any external infrastructure. Containerized with Docker and handles graceful shutdown correctly on SIGTERM and SIGINT.",
+            "technical": "Custom AppError class separates internal error messages from user-facing messages so sensitive details never leak to API clients. A catchAsync higher-order function wraps all async route controllers to eliminate repetitive try/catch boilerplate throughout the codebase. The global error handler covers every Mongoose error type — CastError, ValidationError, DuplicateKey 11000, VersionError, DocumentNotFound — converting each to the correct HTTP status code and a clean user-facing message. Pino structured logging with pino-http middleware logs every request lifecycle with automatic redaction of Authorization headers and cookie values so secrets never appear in logs. The Vitest integration test suite uses mongodb-memory-server to spin up an in-memory MongoDB instance for each test run — no external database or Docker required to run tests locally. Docker Compose orchestrates the app container and a MongoDB container with a health check so the app only starts once the database is ready. Graceful shutdown handler listens for SIGTERM and SIGINT, stops the HTTP server from accepting new connections, waits for all in-flight requests to complete, closes the Mongoose connection, then exits cleanly. ESLint with typescript-eslint strict ruleset enforces type safety and catches common mistakes at lint time.",
+            "content": {
+                "name": "Name",
+                "desc": "Brief Description",
+                "link": "Link to Repo",
+                "skills": "Skills Used",
+                "longdesc": "Long Description",
+                "technical": "Technical Description"
+            }
+        },
+        {
+            "name": "BlogSite",
+            "desc": "Deployed Django blogging platform with LLM-powered automatic tag generation via Cohere API, personalized user feeds, dual token and session authentication, CI/CD pipeline with PostgreSQL, and cloud deployment. Built in two days.",
+            "link": "https://github.com/sourabh945/BlogSite",
+            "skills": [
+                "Python",
+                "Django",
+                "DRF",
+                "PostgreSQL",
+                "GitHub Actions",
+                "Gunicorn",
+                "Cohere API",
+                "pytest"
+            ],
+            "longdesc": "A full production Django application deployed on Render with a PostgreSQL database. Users write and publish blog posts that are automatically tagged by an LLM — they never need to pick tags themselves. The home feed is personalized: each user selects their interest tags during onboarding and the feed returns posts that match those interests. The project was built end to end in two days including deployment, CI/CD pipeline, and LLM integration.",
+            "technical": "Custom AbstractBaseUser and UserManager handle all authentication logic including password hashing via set_password and clean validation in UserCreationForm. Dual authentication strategy: DRF token authentication for the REST API layer and Django session authentication for the template-rendered UI layer — each appropriate for its context and neither forcing the wrong pattern. LLM tag generation calls the Cohere generate API after a blog post is saved, extracts candidate tags from the model response, and filters them against a predefined valid tag list before storing — ensuring the LLM can never inject arbitrary tags into the system. Personalized feed query uses Django Q() objects with OR logic across all of the requesting user's saved interest tags and calls .distinct() to prevent duplicate posts appearing when multiple tags match the same post. Custom BlogPaginator class wraps Django's core Paginator and produces a response envelope matching DRF pagination format so the frontend has a consistent shape regardless of whether data comes from a class-based view or a function-based view. GitHub Actions CI/CD pipeline defines a PostgreSQL 15 service container with a health check, waits for the database to accept connections, runs Django migrations against it, executes the full pytest suite, and only triggers a Render deploy webhook on a green build. Production settings enable HTTPS redirect, HSTS with includeSubDomains, secure cookies, and X-Frame-Options. Static files served via WhiteNoise with compression and long-lived cache headers.",
+            "note": "Live at https://blogsite-6ljs.onrender.com/",
+            "content": {
+                "name": "Name",
+                "desc": "Brief Description",
+                "link": "Link to Repo",
+                "skills": "Skills Used",
+                "longdesc": "Long Description",
+                "technical": "Technical Description",
+                "note": "Note"
+            }
+        },
+        {
+            "name": "Third Eye — Assistive Navigation Device",
+            "desc": "Hardware and software assistive device for visually impaired and elderly users. Achieves 59 microsecond obstacle detection and feedback response time with integrated voice assistant for audio navigation guidance.",
+            "link": "https://github.com/sourabh945/Davidassistance",
+            "skills": [
+                "Python",
+                "Arduino",
+                "Raspberry Pi",
+                "Embedded C",
+                "Ultrasonic Sensors",
+                "Vibration Motor"
+            ],
+            "longdesc": "A complete hardware and software system designed to help visually impaired and elderly users navigate independently and safely. The device uses ultrasonic sensors to detect obstacles in the user's path and delivers immediate haptic feedback through a vibration motor worn on the body. A voice assistant built from scratch provides audio navigation guidance including directional cues and obstacle warnings. The system achieves a 59 microsecond end-to-end response time from obstacle detection to haptic feedback — fast enough for real-world walking speed navigation without perceptible lag.",
+            "technical": "The entire sensing and feedback control loop runs exclusively on the Arduino microcontroller layer without any roundtrip to the Raspberry Pi — this architectural decision is precisely what achieves the 59 microsecond latency. The Arduino runs a tight loop: trigger ultrasonic pulse, measure echo return time, compute distance in centimeters, compare against the danger threshold, and directly drive the vibration motor output pin. No operating system, no context switching, no network calls — pure hardware-speed execution. The Raspberry Pi runs the Python software layer which manages the voice assistant logic, handles higher-level navigation decision making, processes user commands, and coordinates audio output. The two layers communicate over a serial UART connection. The Arduino sends distance readings to the Pi continuously and receives configuration commands such as threshold changes. The clean separation of concerns — sub-millisecond sensing on Arduino, higher-level intelligence on Pi — allows each layer to operate at its natural speed without either one blocking the other.",
+            "content": {
+                "name": "Name",
+                "desc": "Brief Description",
+                "link": "Link to Repo",
+                "skills": "Skills Used",
+                "longdesc": "Long Description",
+                "technical": "Technical Description"
+            }
+        },
+        {
+            "name": "JSON Parser in C",
+            "desc": "An incomplete JSON parser written entirely from scratch in C. Hand-written tokenizer and recursive descent parser to explore manual heap memory management.",
+            "link": "https://github.com/sourabh945/json-parser",
+            "skills": [
+                "C",
+                "Parsing",
+                "Manual Memory Management",
+                "Data Structures",
+                "Algorithms",
+                "Tokenizer",
+                "AST"
+            ],
+            "longdesc": "Built as part of John Crickett's Coding Challenges series. Writing a JSON parser in C means confronting every problem that higher-level languages solve silently. Although I never completely finished the parser, this project was an exercise in understanding what Python, JavaScript, and Go are doing underneath when you call json.parse.",
+            "technical": "The lexer reads the raw input buffer character by character and produces a flat array of typed token structs. Each token carries a type tag (STRING, NUMBER, BOOLEAN, NULL, LBRACE, RBRACE, LBRACKET, RBRACKET, COLON, COMMA), a pointer into the input buffer for the token start, and a length field. No copying during tokenization — tokens reference the original input in-place. The recursive descent parser consumes the token array through a cursor. Each JSON value type has a corresponding parse function: parse_object calls parse_string for each key then parse_value recursively for each value; parse_array calls parse_value in a loop until RBRACKET; parse_string allocates a new heap buffer and copies the token content with escape sequence handling. AST nodes are heap-allocated structs with a JsonType enum tag and a union containing either a string pointer, a double, a boolean, a null flag, a linked list of key-value pairs for objects, or a dynamic array of child nodes for arrays. Memory is freed by a recursive post-order tree walk that frees children before parents and strings before their containing nodes. The parser correctly handles all JSON value types, arbitrarily deep nesting, unicode escape sequences, and the full numeric syntax including scientific notation.",
+            "content": {
+                "name": "Name",
+                "desc": "Brief Description",
+                "link": "Link to Repo",
+                "skills": "Skills Used",
+                "longdesc": "Long Description",
+                "technical": "Technical Description"
+            }
+        },
+        {
+            "name": "WC Tool",
+            "desc": "A command-line word count utility written in C — a reimplementation of the Unix wc command supporting byte, character, word, and line counting with single-pass streaming for memory efficiency on arbitrarily large files.",
+            "link": "https://github.com/sourabh945/ccwc",
+            "skills": [
+                "C",
+                "Unix",
+                "File I/O",
+                "Systems Programming",
+                "Command Line"
+            ],
+            "longdesc": "Built as part of John Crickett's Coding Challenges series. Reimplementing a Unix standard utility from scratch in C is a systems programming exercise — you must understand file descriptors, buffered IO, multibyte character encoding, and POSIX argument parsing conventions before a single line of business logic can be written. The goal was a correct, efficient implementation that handles real-world edge cases the same way the system wc does.",
+            "technical": "Reads input in fixed-size chunks using fread into a stack-allocated buffer — never loads the entire file into heap memory, so it runs correctly on files of arbitrary size with constant memory usage. A single pass through the buffer simultaneously increments byte count, line count (newline detection), word count (whitespace state machine tracking transitions between whitespace and non-whitespace), and character count (UTF-8 multibyte sequence detection by inspecting the high bits of each byte to distinguish leading bytes from continuation bytes). Supports -c for bytes, -l for lines, -w for words, -m for characters, and the default three-column output matching POSIX wc behaviour. Handles reading from stdin when no file argument is given. Argument parsing done manually without getopt to keep the implementation self-contained.",
+            "content": {
+                "name": "Name",
+                "desc": "Brief Description",
+                "link": "Link to Repo",
+                "skills": "Skills Used",
+                "longdesc": "Long Description",
+                "technical": "Technical Description"
+            }
+        },
+        {
+            "name": "XAnalyser",
+            "desc": "Scientific software for automatic X-ray diffraction data analysis and crystallite parameter calculation. A free open-source alternative to the paid Origin software used by researchers worldwide. Used personally on M.Sc. crystal samples.",
+            "link": "https://github.com/sourabh945/xanalyser",
+            "skills": [
+                "Python",
+                "SciPy",
+                "NumPy",
+                "Pandas",
+                "Matplotlib",
+                "Material Science",
+                "Physics"
+            ],
+            "longdesc": "Replaces a paid scientific software used by researchers worldwide. Given raw XRD intensity versus angle data from a crystal sample, the software automatically identifies all diffraction peaks, isolates each peak from its neighbours, generates physics-derived initial parameter estimates, fits each peak using nonlinear curve fitting, and computes all crystallite parameters with minimal human intervention. Used personally on real crystal samples during M.Sc. research in Material Science at GJUST Hisar. Works on crystalline materials — not validated for amorphous samples or ceramics.",
+            "technical": "Peak detection scans the raw intensity versus two-theta angle data array using a sliding window to find local maxima above an adaptive noise floor threshold. Each detected peak is isolated by finding the nearest minima on both sides to define the integration window. For each isolated peak, physics-derived initial parameter estimates are computed before fitting: the peak centre position directly gives the Bragg angle for initial lattice parameter estimation, and the peak full-width-at-half-maximum gives an initial crystallite size estimate via the Scherrer equation D = Kλ/βcosθ. SciPy curve_fit performs nonlinear least-squares fitting of a Pseudo-Voigt profile to each isolated peak using these physics estimates as starting values — this is critical because without good initial values the optimizer diverges on overlapping peaks. After fitting, all crystallite parameters are derived from the fitted peak parameters: crystallite size via Scherrer, microstrain from the Williamson-Hall analysis across multiple peaks, and dislocation density from the derived size and strain values. Pandas manages the multi-peak results table. Matplotlib generates publication-ready diffractogram plots with fitted curves overlaid on experimental data and annotated peak positions.",
+            "note": "For advanced research please verify results independently. No responsibility is taken for errors or inaccuracies in the output.",
+            "content": {
+                "name": "Name",
+                "desc": "Brief Description",
+                "link": "Link to Repo",
+                "skills": "Skills Used",
+                "longdesc": "Long Description",
+                "technical": "Technical Description",
+                "note": "Note"
+            }
+        },
+        {
+            "name": "DataKeeper",
+            "desc": "Automated cloud backup software with built-in file version control. Benchmarked 25% faster than comparable backup methods. Self-tuning concurrency adapts to host machine specifications for optimal performance on any hardware.",
+            "link": "https://github.com/sourabh945/datakeeper",
+            "skills": [
+                "Python",
+                "Google Drive API",
+                "Version Control",
+                "Multiprocessing",
+                "Multithreading",
+                "Automation"
+            ],
+            "longdesc": "An automatic backup tool for Google Drive that manages multiple versions of files in a manner similar to how Git manages source code history. Eliminates the need to manually select and upload files, handles complete version history automatically, and operates on a strict no-deletion policy — no version of any file is ever removed without explicit admin approval. The tool is self-tuning: it reads the host machine CPU core count and available memory at startup and sets its own concurrency level accordingly, so it runs efficiently on both a low-end single-core machine and a high-end development workstation without any configuration. Benchmarked at 25% faster than comparable manual backup approaches.",
+            "technical": "Google Drive API integration handles OAuth2 authentication, chunked resumable uploads for large files, metadata management, and folder structure mirroring. The version control system assigns each file a SHA-256 content hash at backup time and stores every version as a separate Drive file with a structured name encoding the original filename, timestamp, and hash. On each backup run the tool computes content hashes of all local files in the target directory tree, loads the last recorded hash state from a local manifest, diffs the two sets to identify new and modified files, and only uploads changed files — unchanged files are skipped entirely without API calls. This change detection combined with adaptive concurrency is the source of the 25% speed improvement over naive full-upload approaches. The thread pool size is set at startup by reading os.cpu_count() and available memory via psutil, applying a heuristic that balances IO parallelism against memory pressure for large file uploads. The no-deletion policy is enforced by the application layer — no Drive delete API calls are ever made during normal operation, only during an explicit admin review command.",
+            "content": {
+                "name": "Name",
+                "desc": "Brief Description",
+                "link": "Link to Repo",
+                "skills": "Skills Used",
+                "longdesc": "Long Description",
+                "technical": "Technical Description"
+            }
+        },
+        {
+            "name": "Quickfolio",
+            "desc": "Deploy a fully responsive portfolio website from a single JSON file. No HTML or CSS knowledge required — fill in your information and deploy anywhere in minutes. This portfolio is built with Quickfolio.",
+            "link": "https://github.com/sourabh945/Quickfolio",
+            "skills": [
+                "Python",
+                "Flask",
+                "Jinja2",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Gunicorn"
+            ],
+            "longdesc": "A ready-to-deploy Flask web application that generates a complete responsive portfolio website entirely from a structured JSON data file. The entire website — every section, every project card, every skill bar, every contact link — is generated dynamically from the JSON schema at request time. Anyone can clone the repository, fill in their information in data.json following the documented schema, and immediately deploy to any hosting service that supports Python without touching a single line of HTML, CSS, or JavaScript. This portfolio website itself is built with and deployed from Quickfolio.",
+            "technical": "Flask serves Jinja2 HTML templates that read all content from the JSON data file loaded at application startup. Every portfolio section — about, experience, education, projects, skills, achievements, contact — is driven entirely by keys in the JSON schema. Jinja2 handles all conditional rendering, list iteration, and dynamic content injection so the template files never need to be modified for different users. The JSON schema is designed with optional fields throughout: sections with missing or empty data are automatically hidden from the rendered page rather than showing empty containers. Skill levels are represented as integers 1 to 10 and rendered as proportional CSS progress bars. Project entries support short description, long description, technical description, skills list, live link, and an optional note field — all optional except name. The application is stateless and serves all content from a single GET route, making it trivially deployable on any WSGI host with Gunicorn as the server. No database, no migrations, no environment variables required beyond the JSON data file.",
+            "content": {
+                "name": "Name",
+                "desc": "Brief Description",
+                "link": "Link to Repo",
+                "skills": "Skills Used",
+                "longdesc": "Long Description",
+                "technical": "Technical Description"
+            }
+        },
+        {
+            "name": "WebRoot",
+            "desc": "Lightweight self-hostable file server accessible via any web browser. Acts as a network drive with multi-user access control, file versioning, per-user access logs, and SSL encryption. Handles up to 5000 concurrent users on modest hardware.",
+            "link": "https://github.com/sourabh945/WebRoot",
+            "skills": [
+                "Python",
+                "Flask",
+                "Nginx",
+                "Gunicorn",
+                "Multiprocessing",
+                "Multithreading",
+                "SSL",
+                "HTML",
+                "CSS"
+            ],
+            "longdesc": "A self-hostable file server that exposes a selected directory on a machine over the local network or internet via web browser. Each client authenticates with their own login credentials and can upload and download files through a standard browser interface with no client software required. Files can never be deleted by any client — only the admin with physical access to the machine can delete files. All versions of any modified file are preserved to allow admin review before finalising changes. Uses approximately 100MB RAM at idle and is designed to handle up to 5000 simultaneous users.",
+            "technical": "Flask application served behind Nginx acting as a reverse proxy and SSL termination point. Gunicorn runs the Flask app with multiple worker processes to handle concurrent clients, each worker using multithreading to handle IO-bound file upload and download operations without blocking. The file storage layer uses the host filesystem directly with no database — files are stored and accessed as regular filesystem paths, which means no database overhead, no ORM queries on the hot path, and no practical file size limit beyond available disk space. An in-process key-value store built on a Python dictionary protected by a threading.Lock serves as a lightweight Redis substitute for storing session tokens, parser keys, and currently active user state — this avoids the operational overhead of running a separate Redis process for a self-hosted tool. Every request must carry a parser key that is unique to that session and verified server-side on every request before any file operation is allowed — this prevents cross-user access and makes man-in-the-middle request replay attacks ineffective because each key is bound to an authenticated session. SSL encryption via Nginx for all client connections. A per-user access log records every file operation with timestamp, username, operation type, and filename for accountability.",
+            "note": "Some CSS and HTML adapted from Mozilla Firefox open source code. Credit to Mozilla.",
+            "content": {
+                "name": "Name",
+                "desc": "Brief Description",
+                "link": "Link to Repo",
+                "skills": "Skills Used",
+                "longdesc": "Long Description",
+                "technical": "Technical Description",
+                "note": "Note"
+            }
+        },
+        {
+            "name": "Hydrogen Molecule Ion Simulation",
+            "desc": "Quantum mechanical simulation solving the ground state electron wave function and energy levels of the Hydrogen Molecule Ion using the Shooting Method and fourth-order Runge-Kutta integration in Fortran. Master's research project.",
+            "link": "https://github.com/sourabh945/hydrogen-molecule-ion-sim",
+            "skills": [
+                "Fortran",
+                "Python",
+                "Quantum Mechanics",
+                "Computational Physics",
+                "NumPy",
+                "Matplotlib",
+                "SciPy"
+            ],
+            "longdesc": "Master's research project. Solves the ground state energy eigenvalue and full orbital wave function of the Hydrogen Molecule Ion (H2+) across arbitrary energy ranges with high resolution. The Hydrogen Molecule Ion is the simplest multi-centre quantum system — one electron shared between two protons — and its exact solution requires numerical methods because it does not reduce to a simple analytic form in standard coordinates. The simulation uses prolate spheroidal coordinates which naturally separate the two-centre problem and allow the coupled Schrödinger equations to be solved with a shooting method. Python handles all post-processing and generates publication-quality 3D electron density orbital visualizations from the raw Fortran output.",
+            "technical": "Fortran program implements fourth-order Runge-Kutta numerical integration for the coupled radial and angular ordinary differential equations of the H2+ system expressed in prolate spheroidal coordinates (ξ, η). The Shooting Method scans over a user-defined energy parameter range with configurable step resolution, numerically integrates the wave function outward from the origin for each candidate energy value, evaluates the boundary condition at the outer boundary, and detects sign changes in the mismatch function — each sign change brackets an energy eigenvalue. Bisection refinement then narrows each bracketed eigenvalue to the desired precision. Multiple energy ranges can be defined in a single input file for a single run. The Fortran program writes raw numerical data — wave function amplitude at each grid point, energy eigenvalues, coordinate grids — to structured output files. Python reads these files using NumPy, computes the electron probability density as the modulus squared of the wave function, and generates 3D volumetric plots of the orbital using Matplotlib's 3D projection with adjustable isosurface levels.",
+            "content": {
+                "name": "Name",
+                "desc": "Brief Description",
+                "link": "Link to Repo",
+                "skills": "Skills Used",
+                "longdesc": "Long Description",
+                "technical": "Technical Description"
+            }
+        },
+        {
+            "name": "Computational Physics Library",
+            "desc": "A library of reusable Fortran subroutines for solving common numerical problems in physics and mathematics. Built up over undergraduate and postgraduate studies to avoid reimplementing algorithms from scratch in each new simulation.",
+            "link": "https://github.com/sourabh945/computational-physics-lib",
+            "skills": [
+                "Fortran",
+                "Computational Physics",
+                "Numerical Methods",
+                "Mathematics",
+                "Algorithms"
+            ],
+            "longdesc": "A personal library of tested, reusable Fortran routines built up over the course of undergraduate and postgraduate physics studies. The motivation was practical: when writing a new physics simulation you want to call a trusted integration routine or linear algebra solver, not spend two hours reimplementing and debugging Gaussian elimination again. The library covers the numerical methods that appear repeatedly across classical mechanics, quantum mechanics, statistical mechanics, and electromagnetism simulations.",
+            "technical": "Numerical integration: Simpson's composite rule, trapezoidal rule with Richardson extrapolation, and Gaussian quadrature with Legendre nodes and weights for high-accuracy integration of smooth functions. Ordinary differential equation solvers: explicit Euler, second-order and fourth-order Runge-Kutta with fixed step size, and an adaptive step size RK4 driver that adjusts step size based on local truncation error estimate to maintain a user-specified global accuracy tolerance. Root finding: bisection method, Newton-Raphson with analytical or numerical derivative, and secant method for cases where the derivative is unavailable. Linear algebra: Gaussian elimination with partial pivoting for numerical stability, LU decomposition with forward and back substitution for repeated solves with the same matrix, and matrix inversion via LU factorization. All routines are implemented as Fortran subroutines and functions following a consistent calling convention — input data passed by value or by reference, output written to intent(out) arguments — so they compose cleanly into larger simulation programs without interface mismatch errors.",
+            "content": {
+                "name": "Name",
+                "desc": "Brief Description",
+                "link": "Link to Repo",
+                "skills": "Skills Used",
+                "longdesc": "Long Description",
+                "technical": "Technical Description"
+            }
+        }
+    ],
+    "contacts": [
+        {
+            "name": "Email",
+            "source": "sheokand.sourabh.anil@gmail.com",
+            "type": "email"
+        },
+        {
+            "name": "GitHub",
+            "source": "https://github.com/sourabh945",
+            "type": "website"
+        },
+        {
+            "name": "LinkedIn",
+            "source": "https://linkedin.com/in/sourabh-sheokand/",
+            "type": "website"
+        },
+        {
+            "name": "Call",
+            "source": "+91-9306490337",
+            "type": "call"
+        }
+    ]
+}
