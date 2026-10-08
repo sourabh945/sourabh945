@@ -19,9 +19,10 @@
         {
             "company": "HexaHealth",
             "website": "https://www.hexahealth.com",
-            "title": "Executive",
+            "title": "Executive (Internal Tools & Automations)",
             "years": "Jan 2025 – Present",
             "points": [
+                "Built a browser-based data transformation layer that consumes CMS backend API responses, reconciles and normalizes fields using multiple APIs, and prepares corrected records for downstream CMS workflows.", 
                 "Fixed a critical bug in the React-based CMS where drag-and-drop operations with null objects caused system crashes.",
                 "Implemented a guardrail in the dnd-kit library to handle null objects, a fix that was formally adopted by the tech team.",
                 "Developed JavaScript and Python automation scripts to streamline data entry workflows and aggregate healthcare provider data."
